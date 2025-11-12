@@ -10,7 +10,7 @@
 
 .quiz-question {
   font-size: 17px;
-  color: #000;
+  color: #2952a3;
   margin-bottom: 2px;
   font-weight: bold;
   text-align: left;
@@ -22,7 +22,7 @@
 }
 
 .quiz-options p {
-  font-size: 15px;
+  font-size: 16px;
   margin: 4px 0;
   color: #111;
 }
